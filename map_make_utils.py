@@ -2,6 +2,7 @@
 class RoomData(object):
     items = ["Book", "Sword", "Fireplace", "Door"]
     floor = ["Stone", "Poo", "Pee", "Blood"]
+    #TODO: More poop!
 
 
 class RoomGenerator(object):
