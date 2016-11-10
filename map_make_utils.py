@@ -1,3 +1,4 @@
+# Test comment
 class RoomData(object):
     items = ["Book", "Sword", "Fireplace", "Door"]
     floor = ["Stone", "Poo", "Pee", "Blood"]
